@@ -1,6 +1,6 @@
 # Simple-Game-Penjumlahan 
 
-IN PYDROID 3
+IN PYDROID 3 USING Tkinter 
 
 
 
