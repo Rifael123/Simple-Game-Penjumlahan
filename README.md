@@ -1,1 +1,8 @@
-# Simple-Game-Penjumlahan
+# Simple-Game-Penjumlahan 
+
+IN PYDROID 3
+
+
+
+
+# Preview
